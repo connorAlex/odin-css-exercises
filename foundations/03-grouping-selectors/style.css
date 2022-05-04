@@ -1,12 +1,12 @@
 div{
-    font-size: 36px;
+    font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
-but1{
+.but1{
     background-color: black;
     color: white;
 }
-but2{
+.but2{
     background-color: yellow;
     
 }
