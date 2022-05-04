@@ -1,10 +1,12 @@
 div{
     font-size: 36px;
-
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 but1{
-
+    background-color: black;
+    color: white;
 }
 but2{
+    background-color: yellow;
     
 }
