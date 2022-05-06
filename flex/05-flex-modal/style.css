@@ -41,6 +41,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-basis: auto;
+  flex-shrink: 0;
   
 }
 
@@ -79,7 +80,7 @@ button.cancel {
   display: flex;
   flex-direction: column;
   margin: 5px;
-  flex-shrink: 40;
+  
 }
 .top{
   display:flex;
